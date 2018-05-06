@@ -1,0 +1,3 @@
+# about
+Todo sobre mi profesionalmente hablando
+Desde mis estudios, logros, avances, alcances y proyectos actuales con los que ando trabajando...
